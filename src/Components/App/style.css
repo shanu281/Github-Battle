@@ -1,0 +1,7 @@
+.app-container{
+    background-image: linear-gradient(to right top, #051937, #002a45, #00383d, #004325, #344a03);
+    color: white;
+}
+a{
+    text-decoration: none;
+}

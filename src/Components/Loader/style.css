@@ -8,6 +8,8 @@
   .bouncing-loader {
     display: flex;
     justify-content: center;
+    margin-left: 600px;
+    
   }
   
   .bouncing-loader > div {

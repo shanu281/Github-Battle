@@ -1,0 +1,48 @@
+.instructions-container {
+  width: 70vw;
+  margin: 2rem auto 3rem auto;
+
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.instruction {
+  width: 29%;
+}
+.ins-img {
+  background-color: rgb(203, 186, 186);
+  width: 100%;
+  height: 250px;
+  border-radius: 10px;
+}
+h5 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 1rem;
+}
+input {
+  width: 22rem;
+  height: 2.5rem;
+  margin: 0.6rem 2rem 0 0;
+  font-size: 1rem;
+  font-weight: 500;
+}
+.submit-btn {
+  width: 7rem;
+  height: 2.7rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 2.2rem;
+}
+.player {
+  width: 70vw;
+  justify-content: space-between;
+  margin: 2rem auto;
+}
+label {
+  font-size: 1.5rem;
+  font-weight: 500;
+
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
